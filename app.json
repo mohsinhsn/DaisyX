@@ -1,16 +1,18 @@
 {
-  "name": "DaisyX",
+  "name": "Tanya",
   "description": "?",
   "keywords": [
     "telegram",
-    "Daisy",
+    "Tanya",
     "plugin",
-    "telegram-DaisyX",
+    "telegram-Tanya",
     "fuck-TG"
+    "Voice_chat",
+    " vc"
   ],
-  "repository": "https://github.com/TeamDaisyX/Daisy-x",
-  "website": "daisyproject.studio",
-  "success_url": "t.me/DaisyXUpdates",
+  "repository": "https://github.com/mohsinhsn/Tanya",
+  "website": "github.com",
+  "success_url": "t.me/englishchatting_club",
   "buildpacks": [
    {
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
@@ -64,7 +66,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "Only for fork users else don't change",
-      "value": "https://github.com/TeamDaisyX/DaisyX-v2.0",
+      "value": "https://github.com/mohsinhsn/Tanya",
       "required": false  
     },
     "API_PORT": {
