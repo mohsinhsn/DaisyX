@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>❤️ DaisyX 2.0  ❤️</b></h1>
+<h1 align="center"><b>❤️ Tanya ❤️</b></h1>
 
 ## Unmaintained. The new repo of @DaisyXbot is private. 
 (It is no longer based on this source code. The completely rewritten bot available now on telegram)
@@ -23,10 +23,10 @@
 > ⭐️ Thanks to everyone who starred Daisy, That is the greatest pleasure we have !
 
 ### https://daisyproject.studio
-## Avaiilable on Telegram as [@DaisyXBot](https://t.me/daisyxbot)
+## Avaiilable on Telegram as [@tanya_aibot](https://t.me/englishchatting_club)
 
 # 🧙‍♀️ Deploy Guide
-Complete guide on deploying @DaisyXBot's clone on Heroku.
+Complete guide on deploying @Tanya_aibot's clone on Heroku.
 
 [![Tutorial](https://yt-embed.herokuapp.com/embed?v=yar61k_hEHQ)](https://www.youtube.com/watch?v=yar61k_hEHQ)
 
@@ -41,8 +41,8 @@ Complete guide on deploying @DaisyXBot's clone on Heroku.
 <a href="https://www.youtube.com/watch?v=yar61k_hEHQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 # ❤️ Support
-<a href="https://t.me/DaisySupport_Official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/DaisyXupdates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Englishchatting_club"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Self-hosting (For Devs) ⚔
 ```sh
@@ -83,7 +83,7 @@ $ python3 -m DaisyX
  - [Alita_Robot](https://github.com/DivideProjects/Alita_Robot/)
  - [FridayUserbot](https://github.com/DevsExpo/FridayUserbot)
  - [MissJuliaRobot](https://github.com/MissJuliaRobot/MissJuliaRobot)
- - [DaisyX](https://github.com/teamdaisyx/daisy-x)
+ - [Tanya](https://github.com/mohsinhsn/tanya)
  - [ADV-Auto-Filter-Bot-V2](https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2)
  - [Image-Editor](https://github.com/TroJanzHEX/Image-Editor/)
  - [Utah](https://github.com/minatouzuki/utah).
