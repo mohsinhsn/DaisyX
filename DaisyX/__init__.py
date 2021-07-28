@@ -21,18 +21,18 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.bot.api import TELEGRAM_PRODUCTION, TelegramAPIServer
 from aiogram.contrib.fsm_storage.redis import RedisStorage2
 
-from DaisyX.config import get_bool_key, get_int_key, get_list_key, get_str_key
-from DaisyX.services.telethon import tbot
-from DaisyX.utils.logger import log
-from DaisyX.versions import DAISY_VERSION
+from Tanya.config import get_bool_key, get_int_key, get_list_key, get_str_key
+from Tanya.services.telethon import tbot
+from Tanya.utils.logger import log
+from Tanya.versions import Tanya_VERSION
 
 log.info("----------------------")
-log.info("|      Daisy X      |")
+log.info("|      Tanya      |")
 log.info("----------------------")
-log.info("Version: " + DAISY_VERSION)
+log.info("Version: " + Tanya_VERSION)
 
 if get_bool_key("DEBUG_MODE") is True:
-    DAISY_VERSION += "-debug"
+    Tanya_VERSION += "-debug"
     log.setLevel(logging.DEBUG)
     log.warn(
         "! Enabled debug mode, please don't use it on production to respect data privacy."
